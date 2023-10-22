@@ -1,8 +1,7 @@
 ![MasterHead](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ulo7f02lk59sawdzyqa16br80yeg391ezsnaem22&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Ganesh Kannan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkannan&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkannan" /> </p>
 
 - 🔭 I’m currently working on **Portfolio**
