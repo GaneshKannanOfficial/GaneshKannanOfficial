@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkannan&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkannan" /> </p>
 
-- 🌱 I’m currently learning **reactJs, nodeJs , tailwind css**
+- 🌱 I’m currently learning **reactJs**
 
 - 📫 How to reach me **kannanganesh2003@gmail.com**
 
